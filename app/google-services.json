@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435220400625",
+    "firebase_url": "https://sp-app-dbb66.firebaseio.com",
+    "project_id": "sp-app-dbb66",
+    "storage_bucket": "sp-app-dbb66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435220400625:android:840707a13d91d250bb5c50",
+        "android_client_info": {
+          "package_name": "com.github.xero.istheapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435220400625-rtumggh5i048ka40n1g444c9pcc6klcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDin0VwvPYQJoGinWV2zCpf9dNycWPA_aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435220400625-rtumggh5i048ka40n1g444c9pcc6klcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
